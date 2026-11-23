@@ -1,0 +1,4 @@
+# Only needed if `uv` is not installed and python3 is used directly.
+pymupdf>=1.24
+pillow>=10
+tqdm>=4.66
