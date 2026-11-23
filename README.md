@@ -1,5 +1,6 @@
 ## Intro
 ---
+
 This is the main vault for RedLambda, this vault should serve as a template for people who want to share the same process that I undertook in order to manage my studies. This is the main note of the vault and should contain all the links to the important sections of the vault. These include the following:
 
 - [[Modules]]
@@ -8,6 +9,7 @@ This is the main vault for RedLambda, this vault should serve as a template for 
 
 ## Agentic Workflows
 ---
+
 Obsidian plugins supports terminal and CLI tools like Opencode, Claude Code, Codex, Hermes Agent, ... etc., this vault is structured to give instructions to the agents/tool that you deploy in order to help with your studies/projects. these include the followings:
 
 - **Moodle Integration**: the vault has instruction on integrating Moodle with the Agents and provides a way to automatically get data from your University/Institution.
@@ -17,10 +19,12 @@ Obsidian plugins supports terminal and CLI tools like Opencode, Claude Code, Cod
 
 ## Requirements
 ---
+
 1. Install Opencode and link it to your provider: https://opencode.ai/product
 2. Get the Moodle repo for downloading and notifying you: https://github.com/C0D3D3V/Moodle-DL
 3. Connect your Composio MCP account to your Opencode: https://composio.dev/
 4. **Optional for OCR**: Connect your Openrouter api key: https://openrouter.ai/
+
 
 ### Notes on requirements
 
